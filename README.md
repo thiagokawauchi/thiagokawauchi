@@ -20,6 +20,6 @@
 <a href="https://instagram.com/thiago.kawauchi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=thiagokawauchi&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagokawauchi&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=thiagokawauchi&show_icons=true&theme=vision-friendly-dark" alt="thiagokawauchi's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagokawauchi&layout=compact&theme=vision-friendly-dark" alt="thiagokawauchi's most languages"/>
 </p>
