@@ -8,7 +8,7 @@
 
 - 🚀 Enthusiast of the best **Web, Blockchain, Smart Contracts and Metaverse** technologies.
 
-- ⚡ Fun fact **Investor and Bodybuilder**
+- ⚡ Fun fact: **Investor and Bodybuilder**
 
 ## 🛠 &nbsp;Tech Stack
 
