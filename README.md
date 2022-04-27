@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Node.JS, SQL, Python**
 
-- 🚀 Enthusiast of the best **Web, Blockchain, Smart Contracts and Metaverse** technologies.
+- 🚀 Enthusiast of the best **Web, Blockchain, Smart Contracts** and **Metaverse** technologies.
 
 - ⚡ Fun fact: **Investor and Bodybuilder**
 
