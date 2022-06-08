@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, I'm Thiago Kawauchi</h1>
+<h1 align="left">Hi, I'm Thiago Kawauchi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagokawauchi&color=yellow" alt="Profile views" /> </p>
 
 - 🔭 Full Stack Web Developer at [Open Connect](https://openconnect.com.br/index.html)
