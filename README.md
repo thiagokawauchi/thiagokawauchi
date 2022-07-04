@@ -2,13 +2,13 @@
 <h1 align="left">Hi, I'm Thiago Kawauchi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagokawauchi&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 Full Stack Web Developer at [Open Connect](https://openconnect.com.br/index.html)
+- 🔭 Quant Trader
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.JS, SQL, Python**
+- 💬 Ask me about **Trading | Math | Statistics | Data Science | Python**
 
-- 🚀 Enthusiast of the best **Web, Blockchain, Smart Contracts** and **Metaverse** technologies.
+- 🚀 Enthusiast of the best **Quantitative Trading**, **Trading Psychology** and **Risk Management** methodologies.
 
-- ⚡ Fun fact: **Investor and Bodybuilder**
+- ⚡ Fun fact: **Bodybuilder**
 
 ## 🛠 &nbsp;Tech Stack
 
