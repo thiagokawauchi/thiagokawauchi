@@ -2,11 +2,11 @@
 <h1 align="left">Hi, I'm Thiago Kawauchi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagokawauchi&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 Quant Trader
+- 🔭 Web3 Developer and Cryptocurrencies Trader
 
-- 💬 Ask me about **Trading | Math | Statistics | Data Science | Python**
+- 💬 Ask me about **web3 | Solidity | JavaScript | Python | Trading**
 
-- 🚀 Enthusiast of the best **Quantitative Trading**, **Trading Psychology** and **Risk Management** methodologies.
+- 🚀 Always interested in hearing about how someone self improved, big human performance junkie. Feel free to message me.
 
 - ⚡ Fun fact: **Bodybuilder**
 
