@@ -2,7 +2,7 @@
 <h1 align="left">Hi, I'm Thiago Kawauchi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagokawauchi&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 Web3 Developer and Cryptocurrencies Trader
+- 🔭 Quant Trader
 
 - 💬 Ask me about **web3 | Solidity | JavaScript | Python | Trading**
 
